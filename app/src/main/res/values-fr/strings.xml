@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="hello_world">Bonjour tout le monde !</string>
+    <string name="button_text">Bouton</string>
+    <string name="description_text">Ceci est une application de test pour Coursera</string>
+</resources>
